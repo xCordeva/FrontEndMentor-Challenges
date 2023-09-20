@@ -1,6 +1,7 @@
 # FrontEndMentor Challenges Solutions
 
 This collection contains my solutions to various challenges from [FrontEndMentor](https://www.frontendmentor.io/). Each challenge is organized into its own repository, making it easy to explore and review my code.
+The challenges are arranged by the order in which they were tackled and solved, following a chronological progression.
 
 
 ## Table of Contents
