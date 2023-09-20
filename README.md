@@ -22,12 +22,13 @@ Here's a list of challenges and their corresponding folders in this repository:
 
 | Challenge's Repository | Languages & Frameworks | Live Site |
 |---|---|---|
-| [Qr Code Page](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/qr-code-page) | HTML-CSS | [Qr Code Page](https://xcordeva.github.io/FrontEndMentor-Challenges/qr-code-page/) |
-| [Interactive Rating Page](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/interactive-rating-page) | HTML-CSS-JS | [Interactive Rating Page](https://xcordeva.github.io/FrontEndMentor-Challenges/interactive-rating-page/) |
-| [Tip Calculator App](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/tip-calculator-app) | HTML-CSS-JS | [Tip Calculator App](https://xcordeva.github.io/FrontEndMentor-Challenges/tip-calculator-app/) |
-| [Time Tracking Dashboard](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/Time-Tracking-Dashboard) | HTML-CSS-JS | [Time Tracking Dashboard](https://xcordeva.github.io/FrontEndMentor-Challenges/Time-Tracking-Dashboard/) |
-| [Order Summary Page](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/Order-Summary-Page) | HTML-CSS | [Order Summary Page](https://xcordeva.github.io/FrontEndMentor-Challenges/Order-Summary-Page/) |
-| [Age Calculator App](https://github.com/xCordeva/FrontEndMentor-Challenges/tree/main/age-calculator-app) | HTML-CSS-JS | [Age Calculator App](https://xcordeva.github.io/FrontEndMentor-Challenges/age-calculator-app/) |
+| [Qr Code Page](https://github.com/xCordeva/qr-code-page-FrontendmentorChallenges) | HTML-CSS | [Qr Code Page](https://xcordeva.github.io/qr-code-page-FrontendmentorChallenges) |
+| [Interactive Rating Page](https://github.com/xCordeva/interactive-rating-page-FrontendmentorChallenges) | HTML-CSS-JS | [Interactive Rating Page](https://xcordeva.github.io/interactive-rating-page-FrontendmentorChallenges) |
+| [Tip Calculator App](https://github.com/xCordeva/tip-calculator-app-FrontendmentorChallenges) | HTML-CSS-JS | [Tip Calculator App](https://xcordeva.github.io/tip-calculator-app-FrontendmentorChallenges) |
+| [Time Tracking Dashboard](https://github.com/xCordeva/time-tracking-dashboard-FrontendmentorChallenges) | HTML-CSS-JS | [Time Tracking Dashboard](https://xcordeva.github.io/time-tracking-dashboard-FrontendmentorChallenges) |
+| [Order Summary Page](https://github.com/xCordeva/order-summary-page-FrontendmentorChallenges) | HTML-CSS | [Order Summary Page](https://xcordeva.github.io/order-summary-page-FrontendmentorChallenges) |
+| [Age Calculator App](https://github.com/xCordeva/age-calculator-app-FrontendmentorChallenges) | HTML-CSS-JS | [Age Calculator App](https://xcordeva.github.io/age-calculator-app-FrontendmentorChallenges) |
+| [Multi Step Form](https://github.com/xCordeva/multi-step-form-FrontendmentorChallenges) | HTML-CSS-JS | [Multi Step Form](https://xcordeva.github.io/multi-step-form-FrontendmentorChallenges/) |
 
 Feel free to click on each challenge folder to view the solution code.
 
