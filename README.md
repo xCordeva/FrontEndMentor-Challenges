@@ -32,7 +32,7 @@ Here's a list of challenges and their corresponding folders in this repository:
 | [Multi Step Form](https://github.com/xCordeva/multi-step-form-FrontendmentorChallenges) | HTML-CSS-JS | [Multi Step Form](https://xcordeva.github.io/multi-step-form-FrontendmentorChallenges) |
 | [E-commerce Product Page](https://github.com/xCordeva/ecommerce-product-page-FrontendmentorChallenges) | HTML-CSS-JS | [E-commerce Product Page](https://xcordeva.github.io/ecommerce-product-page-FrontendmentorChallenges) |
 | [Countries API with Dark Mode Switch](https://github.com/xCordeva/countries-api-with-theme-switcher-FrontendmentorChallenges) | HTML-CSS-JS | [Countries API with Dark Mode Switch](https://xcordeva.github.io/countries-api-with-theme-switcher-FrontendmentorChallenges) |
-| [Interactive Comments Section](https://github.com/xCordeva/interactive-comments-section-FrontendmentorChallenges/tree/main) | REACT-CSS-JS | [Interactive Comments Section](https://xcordeva.github.io/interactive-comments-section-FrontendmentorChallenges) |
+| [Interactive Comments Section](https://github.com/xCordeva/interactive-comments-section-FrontendmentorChallenges/tree/main) | REACT-HTML-CSS-JS | [Interactive Comments Section](https://xcordeva.github.io/interactive-comments-section-FrontendmentorChallenges) |
 
 Feel free to click on each challenge folder to view the solution code.
 
@@ -41,6 +41,7 @@ Feel free to click on each challenge folder to view the solution code.
 - HTML
 - CSS
 - JavaScript
+- React
 
 
 ## Getting Started
